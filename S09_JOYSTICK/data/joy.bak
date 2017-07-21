@@ -1,0 +1,5 @@
+Controla Pad Esquerdo
+x_joy	eixo x	3	SLIDER	Eixo X	0	1.0	0.0
+y_joy	eixo y	3	SLIDER	Eixo Y	0	1.0	0.0
+sobe	botao sobe	1	BUTTON	Botão 1	0	0.0	0.0
+desce	botao desce	1	BUTTON	Botão 2	0	0.0	0.0
